@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zhad2025.github.io/zhadblog/sitemap.xml
