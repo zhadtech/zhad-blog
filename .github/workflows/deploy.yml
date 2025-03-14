@@ -1,9 +1,12 @@
-name: Deploy Hugo Blog
+name: CI Deploy Hugo Blog
 
 on:
   push:
     branches:
       - main  # Run this workflow when pushing to main
+
+permissions:
+  contents: write # GitHub Actions runs with read-only permissions by default
 
 jobs:
   build:
