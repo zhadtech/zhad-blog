@@ -1,13 +1,13 @@
 {
   "graph": {
-    "/posts/my-first-post/": {
+    "/zhadblog/posts/my-first-post/": {
       "in": [],
       "out": []
     }
   },
   "pages": {
-    "/posts/my-first-post/": {
-      "permalink": "/posts/my-first-post/",
+    "/zhadblog/posts/my-first-post/": {
+      "permalink": "/zhadblog/posts/my-first-post/",
       "section": "posts",
       "title": "My First Post"
     }
